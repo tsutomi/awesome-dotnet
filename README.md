@@ -470,6 +470,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MediatR](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET
 * [EventFlow](https://github.com/eventflow/EventFlow) - EventFlow is an Async/await first CQRS and Event Sourcing DDD framework for .NET
 * [LiteBus](https://github.com/litenova/LiteBus) -An easy-to-use and ambitious in-process mediator providing the foundation to implement Command Query Separation (CQS)
+* [Deveel Events](https://github.com/deveel/deveel.events)- A simple to use .NET framework for the publication and subscription of events, with support for multiple channels (eg. RabbitMQ, Azure ServiceBus, Webhooks, etc.) as a pluggable architecture for custom transports and serialization.
 
 ## Exceptions
 * [Exceptionless](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
@@ -849,6 +850,7 @@ metadata in media files, including video, audio, and photo formats
 * [RepoDb](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 * [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 * [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
+* [Deveel Repository](https://github.com/deveel/deveel.repository) - A simple and extensible repository pattern (on the principles of Clean Architecture / Domain-Driven Design) implementation for .NET applications, supporting multiple data sources (eg. EntityFramework, MongoDB, In-Memory, etc.) and providing a consistent API for data access.
 
 ## Package Management
 
