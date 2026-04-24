@@ -850,7 +850,6 @@ metadata in media files, including video, audio, and photo formats
 * [RepoDb](https://github.com/mikependon/RepoDb) - A hybrid ORM library for .NET.
 * [MongoFramework](https://github.com/TurnerSoftware/MongoFramework) - An "Entity Framework"-like interface for MongoDB
 * [Friflo.Json.Fliox](https://github.com/friflo/Friflo.Json.Fliox) - High performane ORM for Sqlite, MySql, SqlServer, PostgreSQL & NoSQL. Provides server with REST, GraphQL & WebSocket / PubSub API.
-* [Deveel Repository](https://github.com/deveel/deveel.repository) - A simple and extensible repository pattern (on the principles of Clean Architecture / Domain-Driven Design) implementation for .NET applications, supporting multiple data sources (eg. EntityFramework, MongoDB, In-Memory, etc.) and providing a consistent API for data access.
 
 ## Package Management
 
